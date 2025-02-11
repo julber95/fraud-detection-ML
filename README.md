@@ -20,8 +20,8 @@ The objective of this project is to develop a **fraud detection model** using ma
 Given the **low fraud occurrence** (1.4% fraud cases in the dataset), the main challenge is to develop a model that **maximizes Precision-Recall AUC (PR-AUC)** while handling imbalanced data.
 
 ** Our team achieved the best performance in the challenge!**  
-- ** 1st place in the Public Leaderboard with a PR-AUC score of 0.2813**  
-- ** 1st place in the Private Leaderboard with a PR-AUC score of 0.3507**  
+- **🥇 1st place in the Public Leaderboard with a PR-AUC score of 0.2813**  
+- **🥇 1st place in the Private Leaderboard with a PR-AUC score of 0.3507**  
 
 🔗 **Challenge link:** [BNP Paribas Fraud Detection Challenge](https://challengedata.ens.fr/participants/challenges/104/)
 
