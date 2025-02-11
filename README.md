@@ -104,24 +104,17 @@ The most influential features in detecting fraudulent transactions included:
 
 Given the **imbalance in fraud cases (1.4%)**, accuracy is not an appropriate metric. Instead, we use **Precision-Recall AUC (PR-AUC)**, which provides a better assessment of model performance for the minority (fraud) class.
 
-### 📏 PR-AUC Formula
-\[
-PR-AUC = \sum_n (Recall_n - Recall_{n-1}) \times Precision_n
-\]
+### 📝 PR-AUC Formula
+
+PR-AUC = Σ (Recall_n - Recall_{n-1}) × Precision_n
 
 where:
 
-- **Precision**:
-  \[
-  Precision_n = \frac{TP}{TP + FP}
-  \]
-
-- **Recall**:
-  \[
-  Recall_n = \frac{TP}{TP + FN}
-  \]
+- **Precision** = TP / (TP + FP)
+- **Recall** = TP / (TP + FN)
 
 This is implemented in **scikit-learn’s** `average_precision_score`.
+
 
 
 
