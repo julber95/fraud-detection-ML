@@ -44,19 +44,3 @@ Multiple models were tested using **Precision-Recall AUC (PR-AUC)** as the evalu
 
 - 🌟 **Hyperparameter optimization using RandomSearchCV**
 - 📌 **Cross-validation** for better model robustness
-
----
-
-## 📂 Repository Structure
-📁 `notebooks/` → Jupyter notebooks containing data analysis and model training  
-📁 `data/` → Training and test datasets (CSV files)  
-📁 `models/` → Trained models and scripts for training  
-📄 `Rapport.pdf` → Detailed project report  
-
----
-
-## 📌 Installation & Usage
-### 🔧 Requirements
-Install the necessary dependencies using:
-```bash
-pip install -r requirements.txt
