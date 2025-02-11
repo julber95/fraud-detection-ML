@@ -100,16 +100,6 @@ The most influential features in detecting fraudulent transactions included:
 
 ---
 
-## 📂 Repository Structure
-
-📁 `notebooks/` → Jupyter notebooks for data preprocessing, feature engineering, and model training  
-📁 `data/` → Training and test datasets (CSV files)  
-📁 `models/` → Trained machine learning models  
-📁 `reports/` → Project documentation and final reports  
-📄 `Rapport.pdf` → Final project report with detailed findings  
-
----
-
 ## 📌 Evaluation Metric: Precision-Recall AUC (PR-AUC)
 
 Given the **imbalance in fraud cases (1.4%)**, accuracy is not an appropriate metric. Instead, we use **Precision-Recall AUC (PR-AUC)**, which provides a better assessment of model performance for the minority (fraud) class.
@@ -124,11 +114,3 @@ where:
 
 This is implemented in **scikit-learn’s `average_precision_score`**.
 
----
-
-## 📌 Installation & Usage
-
-### **1️⃣ Install Dependencies**
-Install the necessary Python libraries:
-```bash
-pip install -r requirements.txt
