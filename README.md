@@ -1,4 +1,4 @@
-# 🚀 Fraud Detection Using Machine Learning
+# Fraud Detection Using Machine Learning
 
 **A machine learning project designed to detect fraudulent transactions in customer purchases.**  
 The goal is to optimize the **Precision-Recall AUC (PR-AUC)** to accurately identify fraudulent transactions while minimizing false positives.
