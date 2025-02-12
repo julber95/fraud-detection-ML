@@ -80,7 +80,7 @@ Given the structure of the dataset, an important preprocessing step is to **flat
 
 ---
 
-## 🚀 Machine Learning Models
+## Machine Learning Models
 
 We evaluated multiple classification models using **Precision-Recall AUC (PR-AUC)** as the primary metric due to the **class imbalance** in the dataset.
 
