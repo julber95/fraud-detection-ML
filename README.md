@@ -5,7 +5,7 @@ The goal is to optimize the **Precision-Recall AUC (PR-AUC)** to accurately iden
 
 ---
 
-## 📌 Context
+## Context
 
 BNP Paribas Personal Finance is the **leading consumer credit provider in France and Europe**, operating in over 30 countries with brands like **Cetelem, Cofinoga, and Findomestic**. The company offers a range of credit solutions through partnerships with **retailers, car manufacturers, financial institutions, and online merchants**.
 
@@ -13,7 +13,7 @@ As fraud becomes a growing concern for financial institutions, **fraud detection
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to develop a **fraud detection model** using machine learning techniques to analyze transaction basket data from one of our partners. The goal is to identify fraudulent transactions **before** they are approved, enabling proactive fraud prevention.
 
@@ -27,7 +27,7 @@ Our team achieved the best performance in the challenge!
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset consists of **115,988 transactions**, where each observation represents a **basket of purchased items**. The dataset is divided into **training (80%) and test (20%) sets**.
 
@@ -110,7 +110,7 @@ The most influential features in detecting fraudulent transactions included:
 
 Given the **imbalance in fraud cases (1.4%)**, accuracy is not an appropriate metric. Instead, we use **Precision-Recall AUC (PR-AUC)**, which provides a better assessment of model performance for the minority (fraud) class.
 
-### 📝 PR-AUC Formula
+### PR-AUC Formula
 
 PR-AUC = Σ (Recall_n - Recall_{n-1}) × Precision_n
 
