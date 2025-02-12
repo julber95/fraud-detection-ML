@@ -13,6 +13,20 @@ As fraud becomes a growing concern for financial institutions, **fraud detection
 
 ---
 
+## 👥 Team
+
+This project was conducted as part of our ** Machine Learning project** in the second year of our **double bachelor's degree in Artificial Intelligence and Organizational Sciences** at **Paris Dauphine University**.
+
+I had the opportunity to collaborate with the following teammates on this project:  
+
+- **JIN Clémence**  
+- **MOUANGUE Cameron**  
+- **CHEN Franck**  
+
+🏆 **Proud to be ranked 1st in both Public and Private Leaderboards!**
+
+---
+
 ## Objective
 
 The objective of this project is to develop a **fraud detection model** using machine learning techniques to analyze transaction basket data from one of our partners. The goal is to identify fraudulent transactions **before** they are approved, enabling proactive fraud prevention.
