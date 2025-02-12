@@ -23,8 +23,6 @@ I had the opportunity to collaborate with the following teammates on this projec
 - **MOUANGUE Cameron**  
 - **CHEN Franck**  
 
-🏆 **Proud to be ranked 1st in both Public and Private Leaderboards!**
-
 ---
 
 ## Objective
